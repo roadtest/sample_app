@@ -2,7 +2,6 @@ require 'spec_helper'
 
 describe UsersController do
   render_views
-
   describe "GET 'index'" do
 
     describe "for non-signed-in users" do
