@@ -8,6 +8,10 @@ gem 'capistrano'
 gem 'mysql'
 gem 'bigdecimal'
 gem 'sqlite3'
+gem 'rdoc'
+gem 'rspec'
+gem 'rspec-core'
+
 
 group :development do
   gem 'rspec-rails'
